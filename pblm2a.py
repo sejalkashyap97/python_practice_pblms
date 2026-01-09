@@ -16,4 +16,4 @@ def is_special_number(num):
     else:
         return False
 
-print(is_special_number(19))   
+  

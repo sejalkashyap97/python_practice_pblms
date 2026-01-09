@@ -1,5 +1,5 @@
 #1.Given an string, write a program to verify whether the string has equal number ofvowels and consonants or not
-def equal_vowels_and_consonants_one_way(s):
+def equal_vowels_and_consonants_one_way(s):#less efficient than second way
     vowels=0
     vow="aeiouAEIOU"
     consonants=0
@@ -27,5 +27,3 @@ def equal_vowels_and_consonants_second_way(s):
         return True
     else:   
         return False
-print(equal_vowels_and_consonants_second_way("aeiouhgnxv"))
-
