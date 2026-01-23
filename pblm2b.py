@@ -4,6 +4,7 @@ def get_special_num_one_way(n):
     for i in range(1,n+1):
         if is_special_number(i) is True:
             print(i,end=" ")
+
 def get_special_num_second_way(n):
     for i in range(1,n+1):
         sum=0

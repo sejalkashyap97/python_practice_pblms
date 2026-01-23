@@ -9,5 +9,8 @@ def count_inversion_pairs(arr):
     for i in range(n):
         for j in range(i+1,n):
             if arr[i]>arr[j]:
-                count+=1    
-    return count
+                count+=1 
+    return count   
+arr={8,4,2,1,4,1}     
+print(arr)  
+print(count_inversion_pairs(arr))

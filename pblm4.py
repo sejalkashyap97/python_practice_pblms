@@ -10,5 +10,5 @@ def removing_palindrome(sentence):
     for i in word: 
         if is_palindrome(i):
             sentence=sentence.replace(i,"")
-    print(sentence)
-removing_palindrome("madam arora teaches malayalam")
+    return sentence
+
