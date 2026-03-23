@@ -5,7 +5,7 @@ This repository contains beginner to intermediate Python problems.
 ## Topics Covered
 - Strings
 - Number theory
-- Game theory
+- Loops
 - Arrays
 
 ## Problems
