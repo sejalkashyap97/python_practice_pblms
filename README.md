@@ -1,11 +1,22 @@
-Practicing code for Python problems here
-Author sejal
-link to problems : 
-[problem1](pblm1.py)
-[problem2a](pblm2a.py)
-[problem2b](pblm2b.py)
-[problem3](pblm3.py)
-[problem4](pblm4.py)
-[problem5](pblm5.py)
-[problem6](pblm6.py)
-[problem7](pblm7.py)
+# Python Practice Problems
+
+This repository contains beginner to intermediate Python problems.
+
+## Topics Covered
+- Strings
+- Number theory
+- Game theory
+- Arrays
+
+## Problems
+1. Vowel vs Consonant check
+2. Special numbers
+3. Friendly numbers
+4. Palindrome words
+5. Power of 32
+6. Inversion count
+7. Stick game strategy
+
+## Goal
+To improve problem-solving skills.
+
